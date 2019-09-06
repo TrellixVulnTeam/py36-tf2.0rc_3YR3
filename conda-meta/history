@@ -1,0 +1,13 @@
+==> 2019-09-06 22:27:07 <==
+# cmd: t:\Developer\Anaconda3\Scripts\conda-script.py create --yes --json --prefix t:\Developer\Anaconda3\envs\py36-tf2.0rc python=3.6
+# conda version: 4.6.11
++defaults::certifi-2019.6.16-py36_1
++defaults::pip-19.2.2-py36_0
++defaults::python-3.6.9-h5500b2f_0
++defaults::setuptools-41.0.1-py36_0
++defaults::sqlite-3.29.0-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_4
++defaults::wheel-0.33.4-py36_0
++defaults::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['python=3.6']
